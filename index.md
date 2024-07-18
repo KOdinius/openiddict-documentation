@@ -25,7 +25,7 @@ out-of-the-box and custom stores can be implemented to support other providers.
 
 # Getting started
 
-**To implement a custom OpenID Connect server using OpenIddict, read [Getting started](https://documentation.openiddict.com/guides/getting-started/)**.
+**To implement a custom OpenID Connect server using OpenIddict, read [Getting started](guides/getting-started/index.md)**.
 
 **Samples demonstrating how to use OpenIddict with the different OAuth 2.0/OpenID Connect flows**
 can be found in the [dedicated repository](https://github.com/openiddict/openiddict-samples).
