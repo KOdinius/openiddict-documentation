@@ -40,7 +40,7 @@ This project wouldn't exist without the support of [our incredible sponsors](htt
 <br />
 
 <a href="https://www.openiddictcomponents.com/">
-  <img src="https://www.openiddictcomponents.com/media/kz1aymji/openiddict-components-logo-poweredbyrsk.png" width="400px" alt="OpenIddict Components Logo" />
+  <img src="https://www.identityserver.com/media/xl4bf02t/openiddict-components-logo-poweredbyrsk-png.png" width="400px" alt="OpenIddict Components Logo" />
 </a>
 
 <br />
